@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=8ABF9F&center=true&vCenter=true&width=700&lines=hi%2C+i'm+Fern+%F0%9F%8C%BF;friendly+being+using+AI;making+UI+ideas+real" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=8ABF9F&center=true&vCenter=true&width=700&lines=hi%2C+i'm+Keo+%F0%9F%8C%BF;friendly+being+using+AI;making+UI+ideas+real" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 🌿 about
 
-i'm Fern — a friendly being using AI to build the things i wish existed.
+i'm Keo — a friendly being using AI to build the things i wish existed.
 
 i mostly explore UI, visual ideas, small tools, and whatever random thought decides to live rent-free in my head.
 
